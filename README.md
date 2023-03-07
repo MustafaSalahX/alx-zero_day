@@ -1,2 +1,2 @@
 My First Readme
-## This is Owsome !
+## This is Awsome !
