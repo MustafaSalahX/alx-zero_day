@@ -1,2 +1,2 @@
-#0x03-git
-## This Is Awsome 
+0x03-git
+ This Is Awsome 
